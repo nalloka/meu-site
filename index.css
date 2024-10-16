@@ -13,7 +13,7 @@ body {
     }
     
     a {
-    color:white;
+    color:whitesmoke;
     text-decoration: none;
     }
     
@@ -21,7 +21,7 @@ body {
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    border: 5px solid white;
+    border: 5px solid whitesmoke;
     
     }
     
@@ -32,6 +32,6 @@ body {
     }
     h1{
     
-    color: white;
+    color: whitesmoke;
     
     }
